@@ -5,3 +5,8 @@ spring:
     username: kamsafe
     password: 7glNs5Q^&fQBDoXDpG
     url: jdbc:mysql://39.98.162.159:3306/kamsafe_1?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
+    
+# 打印sql
+logging:
+  level:
+    com.qiangqiang.helloservice.mapper: debug
