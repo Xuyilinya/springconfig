@@ -1,5 +1,5 @@
 zuul:
   routes:
     baidu:
-      path: /it/**
-      url: http://www.ityouknow.com/
+      path: /hello/**
+      url: http://localhost:8063/
