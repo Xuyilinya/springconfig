@@ -2,5 +2,5 @@ name: zuulserice
 zuul:
   routes:
     baidu:
-      path: /hello/**
-      url: http://localhost:8063/
+      path: /it/**
+      url: http://www.ityouknow.com/
