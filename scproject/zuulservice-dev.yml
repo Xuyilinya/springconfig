@@ -1,3 +1,4 @@
+name: zuulserice
 zuul:
   routes:
     baidu:
