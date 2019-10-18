@@ -1,8 +1,6 @@
 # 数据源配置
-name: welcome to my party!update aging
-spring:
-  datasource:
+datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    data-password: root
-    data-username: root
-    url: jdbc:mysql://localhost:3306/mp?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    username: kamsafe
+    password: 7glNs5Q^&fQBDoXDpG
+    url: jdbc:mysql://39.98.162.159:3306/kamsafe_1?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
