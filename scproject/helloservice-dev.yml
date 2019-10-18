@@ -1,6 +1,7 @@
 # 数据源配置
-datasource:
- driver-class-name: com.mysql.cj.jdbc.Driver
+spring:
+ datasource:
+  driver-class-name: com.mysql.cj.jdbc.Driver
   username: kamsafe
   password: 7glNs5Q^&fQBDoXDpG
   url: jdbc:mysql://39.98.162.159:3306/kamsafe_1?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
