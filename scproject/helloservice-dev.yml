@@ -1,5 +1,5 @@
 # 数据源配置
-name: welcome to my party update!
+name: welcome to my party!
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
