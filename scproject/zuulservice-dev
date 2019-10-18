@@ -1,1 +1,5 @@
-name: zuul-service
+zuul:
+  routes:
+    baidu:
+      path: /it/**
+      url: http://www.ityouknow.com/
