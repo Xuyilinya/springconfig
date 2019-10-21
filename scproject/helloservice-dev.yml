@@ -1,3 +1,4 @@
+name: helloservice
 # 数据源配置
 spring:
   datasource:
